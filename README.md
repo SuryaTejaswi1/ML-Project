@@ -1,5 +1,5 @@
 # ML-Project
-A Comprehensive Study of eye-tracking Data in ECG Interpretation
+### A Comprehensive Study of eye-tracking Data in ECG Interpretation
 
 Objective 1: User expertise - performed a multinomial classification to predict the expertise of  various participants in the study
 Predicting User Expertise: Utilizing multinomial classification, we aim to accurately identify the expertise level of participants in the study.
