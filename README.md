@@ -10,3 +10,7 @@ Unveiling Revisiting Factors: We explore what individual characteristics predict
 
 Objective 3: Use a regression model to predict the time spent on each AOI (Time_spent_G) based on the practitioner's group (Group) and other features. This will quantify the influence of practitioner role on attention allocation to specific AOIs.
 Quantifying Practitioner Role Influence: Employing a regression model, we strive to quantify the influence of practitioner role on the time spent on each AOI (Time_spent_G) based on group affiliation and other relevant features.
+
+
+Reference:
+Dataset - Tahri Sqalli, M., Al-Thani, D., Elshazly, M., & Al-Hijji, M. (2022). Eye Tracking Dataset for the 12-Lead Electrocardiogram Interpretation of Medical Practitioners and Students (version 1.0.0). PhysioNet. https://doi.org/10.13026/gsr5-8b11.
